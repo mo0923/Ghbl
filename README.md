@@ -1,4 +1,4 @@
-# boardCRUD
+# Ghbl
 
 1. 프로젝트 개요
   JSP/Servlet, Oracle(sql)을 이용. 기본 CRUD (Create Read, Update, Delete)가 작동하는 홈페이지 구현.
