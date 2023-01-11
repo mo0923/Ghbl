@@ -38,15 +38,13 @@
 <h3>회원가입</h3>
 
 ![회원가입](https://user-images.githubusercontent.com/111559730/211714833-068ce6d8-7c52-46ac-bd1b-b51eb4f1d798.gif)
+<br/><br/>
+<h3>로그인</h3> 
  
- 
- 
-![글작성하기](https://user-images.githubusercontent.com/111559730/209599016-623d61ad-f344-4f92-9975-5512899d4563.gif)
- 
-![수정하기](https://user-images.githubusercontent.com/111559730/211457994-d25642be-8dfd-445e-b006-8769eeef2b12.gif)
-<br>
-![삭제하기](https://user-images.githubusercontent.com/111559730/211457298-5a8492b2-3e37-4d27-8eba-c42315decdca.gif)
+![로그인하기](https://user-images.githubusercontent.com/111559730/211715005-346bacf9-cbd6-4d4e-8694-4e5c802e3b15.gif)
+<br/><br/>
 
+<h3>영화예매하기</h3>
  
  
  
