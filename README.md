@@ -35,9 +35,9 @@
 <br/><br/><br/><br/>
  
  # [기능 구현]
- 
-![로그인](https://user-images.githubusercontent.com/111559730/209598330-9a394dc1-c0b3-4dfa-96e5-00b6a4c10d7a.gif)
-<br/><br/>
+<h3>회원가입</h3>
+
+![회원가입](https://user-images.githubusercontent.com/111559730/211714833-068ce6d8-7c52-46ac-bd1b-b51eb4f1d798.gif)
  
  
  
