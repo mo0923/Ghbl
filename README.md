@@ -44,7 +44,7 @@
 ![로그인하기](https://user-images.githubusercontent.com/111559730/211715005-346bacf9-cbd6-4d4e-8694-4e5c802e3b15.gif)
 <br/><br/>
 
-<h3>영화예매하기</h3>
+<h3>영화예매 및 예매확인하기</h3>
  
 ![영화예매하기](https://user-images.githubusercontent.com/111559730/211715329-d3f947bb-5c06-498f-93b4-9bdedad6456f.gif)
 <br/><br/>
