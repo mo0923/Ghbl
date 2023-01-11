@@ -46,7 +46,8 @@
 
 <h3>영화예매 및 예매확인하기</h3>
  
-![영화예매하기](https://user-images.githubusercontent.com/111559730/211715329-d3f947bb-5c06-498f-93b4-9bdedad6456f.gif)
+![영화예매](https://user-images.githubusercontent.com/111559730/211723578-c050fdf7-c5eb-44ff-8994-ca502fe2468f.gif)
+
 <br/><br/>
 
 <h3>영화검색하기</h3>
