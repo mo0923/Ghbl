@@ -50,8 +50,8 @@
 <br/><br/>
 
 <h3>영화검색하기</h3>
- 
- 
+
+![영화검색하기](https://user-images.githubusercontent.com/111559730/211715638-0607e63a-05e9-4232-b46a-7fbaefa415c7.gif)
  
  
  
