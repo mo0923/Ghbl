@@ -194,12 +194,7 @@ public class GhblRentDAO {
 	      dbConn();
 	      
 	      try {
-	         /*
-	            예약 확인 페이지 (조인을 이용한 쿼리)
-	            SQL Join문을 이용하여 공통의 컬럼을 기준으로 두 테이블을 묶어줌
-	            : 훨씬 합리적이고 DB를 이용하여 필요한 데이터를 가져옴
-	              natural join 사용함 
-	         */
+	         
 	         // 조건절 현재시스템보다 크면 rDay는 문자열이므로 날짜형으로 바꿈
 	         String sql = "select * from movierent natural join moviereserve where sysdate < to_date(rday,'YYYYMMDD') AND id= ?";
 	         pstmt = conn.prepareStatement(sql);
